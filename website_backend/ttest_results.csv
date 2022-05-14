@@ -1,0 +1,331 @@
+,city_name,demog_var,category_1,category_2,conn_var,pvalue,tstats,sig
+0,nyc,majority_race,Black or African American alone,White alone,supermarket,0.5579914269448125,-0.5858760022201751,False
+1,nyc,majority_race,Black or African American alone,White alone,bank,1.5923170566159849e-21,-9.582867485765625,True
+2,nyc,majority_race,Black or African American alone,White alone,library,1.0815138466228762e-10,-6.476716011655182,True
+3,nyc,majority_race,Black or African American alone,White alone,park,3.7852730277489753e-19,-8.99968962575998,True
+4,nyc,majority_race,Black or African American alone,White alone,hospital,0.03427177953645781,-2.117574471212806,True
+5,nyc,majority_race,Black or African American alone,White alone,school,0.1397423376989737,-1.477040655596613,False
+6,nyc,majority_race,Black or African American alone,Asian alone,supermarket,0.058443170510097495,1.8934619496881109,True
+7,nyc,majority_race,Black or African American alone,Asian alone,bank,4.8906498722080585e-12,-6.951752551541562,True
+8,nyc,majority_race,Black or African American alone,Asian alone,library,7.585137377704556e-05,-3.965542039033057,True
+9,nyc,majority_race,Black or African American alone,Asian alone,park,0.5145572255311321,0.6518762187524191,False
+10,nyc,majority_race,Black or African American alone,Asian alone,hospital,9.820963891534635e-07,-4.910774318859297,True
+11,nyc,majority_race,Black or African American alone,Asian alone,school,1.8125660381367594e-11,-6.760024398959263,True
+12,nyc,majority_race,Black or African American alone,Some other race alone,supermarket,0.11960284344720733,1.5571075883207037,False
+13,nyc,majority_race,Black or African American alone,Some other race alone,bank,7.64777474270477e-09,-5.800895382354088,True
+14,nyc,majority_race,Black or African American alone,Some other race alone,library,0.022395410529998817,-2.2853656548311094,True
+15,nyc,majority_race,Black or African American alone,Some other race alone,park,0.03810868371913693,2.075062652353837,True
+16,nyc,majority_race,Black or African American alone,Some other race alone,hospital,0.0210412807479089,-2.3090643659149306,True
+17,nyc,majority_race,Black or African American alone,Some other race alone,school,0.006905541874991828,-2.704164325581444,True
+18,nyc,majority_race,Black or African American alone,Two or more races,supermarket,0.00032245659905518224,3.9790872582606434,True
+19,nyc,majority_race,Black or African American alone,Two or more races,bank,0.2670221362802185,-1.1103793488751184,False
+20,nyc,majority_race,Black or African American alone,Two or more races,library,0.35628712003324037,0.9227613892355975,False
+21,nyc,majority_race,Black or African American alone,Two or more races,park,0.0842978605662099,1.7618525021970133,True
+22,nyc,majority_race,Black or African American alone,Two or more races,hospital,0.47349346629946387,-0.7169961730774115,False
+23,nyc,majority_race,Black or African American alone,Two or more races,school,0.33811254030270077,-0.9582222907479483,False
+24,nyc,majority_race,White alone,Asian alone,supermarket,0.0545607406649748,1.9230585082671163,True
+25,nyc,majority_race,White alone,Asian alone,bank,0.5184441995298978,0.6458164871692406,False
+26,nyc,majority_race,White alone,Asian alone,library,0.00010269127152523769,3.889042915037954,True
+27,nyc,majority_race,White alone,Asian alone,park,5.0421989964252605e-20,9.22482980301058,True
+28,nyc,majority_race,White alone,Asian alone,hospital,0.0002880967210407926,-3.6297581407095363,True
+29,nyc,majority_race,White alone,Asian alone,school,2.3349552397174272e-08,-5.599133990665241,True
+30,nyc,majority_race,White alone,Some other race alone,supermarket,0.09319157752345973,1.6792889127651867,True
+31,nyc,majority_race,White alone,Some other race alone,bank,0.14786669872263114,1.447451376754434,False
+32,nyc,majority_race,White alone,Some other race alone,library,1.0097657426157683e-06,4.899086705609184,True
+33,nyc,majority_race,White alone,Some other race alone,park,1.316888041812581e-23,10.103765063580026,True
+34,nyc,majority_race,White alone,Some other race alone,hospital,0.4648649535399626,-0.7309455315564477,False
+35,nyc,majority_race,White alone,Some other race alone,school,0.14045180902364382,-1.4744694037493637,False
+36,nyc,majority_race,White alone,Two or more races,supermarket,0.00014770223659273568,4.2426280370966,True
+37,nyc,majority_race,White alone,Two or more races,bank,0.4035066499909362,0.8355068968434364,False
+38,nyc,majority_race,White alone,Two or more races,library,0.009361805087170204,2.743218224094463,True
+39,nyc,majority_race,White alone,Two or more races,park,8.085437240810642e-18,9.090743226890947,True
+40,nyc,majority_race,White alone,Two or more races,hospital,0.8405020488978003,-0.2012708242422569,False
+41,nyc,majority_race,White alone,Two or more races,school,0.5875330684323126,-0.5424797112731754,False
+42,nyc,majority_race,Asian alone,Some other race alone,supermarket,0.7660110731235344,-0.29766594508687866,False
+43,nyc,majority_race,Asian alone,Some other race alone,bank,0.5236581646545555,0.6379086790423307,False
+44,nyc,majority_race,Asian alone,Some other race alone,library,0.1324398812283298,1.5056014832878413,False
+45,nyc,majority_race,Asian alone,Some other race alone,park,0.30519381829828457,1.025809425634171,False
+46,nyc,majority_race,Asian alone,Some other race alone,hospital,0.044543973738719024,2.0111031717026115,True
+47,nyc,majority_race,Asian alone,Some other race alone,school,0.0007844998289650158,3.3670525801808737,True
+48,nyc,majority_race,Asian alone,Two or more races,supermarket,0.007804658556316482,2.784687274452609,True
+49,nyc,majority_race,Asian alone,Two or more races,bank,0.4726209291010185,0.718678873111368,False
+50,nyc,majority_race,Asian alone,Two or more races,library,0.05280927676020674,1.9403496254337493,True
+51,nyc,majority_race,Asian alone,Two or more races,park,0.2373608042530688,1.1945136670194656,False
+52,nyc,majority_race,Asian alone,Two or more races,hospital,0.5806435007185893,0.5527481062728207,False
+53,nyc,majority_race,Asian alone,Two or more races,school,0.4218068074570076,0.8038462422157526,False
+54,nyc,majority_race,Some other race alone,Two or more races,supermarket,0.0048198955693375505,2.9649355678869016,True
+55,nyc,majority_race,Some other race alone,Two or more races,bank,0.6427066400638145,0.46414053434818814,False
+56,nyc,majority_race,Some other race alone,Two or more races,library,0.12959153870356524,1.5176910868372637,False
+57,nyc,majority_race,Some other race alone,Two or more races,park,0.6244842648226462,0.48974467249194603,False
+58,nyc,majority_race,Some other race alone,Two or more races,hospital,0.9881746315199597,-0.014827300219578074,False
+59,nyc,majority_race,Some other race alone,Two or more races,school,0.8420880576216287,-0.19930514481833106,False
+60,nyc,majority_hispanic,Non Hispanic,Hispanic,supermarket,0.0001683742538173349,3.764987397573362,True
+61,nyc,majority_hispanic,Non Hispanic,Hispanic,bank,0.09565472902654323,1.6665938567715652,True
+62,nyc,majority_hispanic,Non Hispanic,Hispanic,library,6.522615715002292e-10,6.188769486420759,True
+63,nyc,majority_hispanic,Non Hispanic,Hispanic,park,9.111557169620844e-23,9.872445550544436,True
+64,nyc,majority_hispanic,Non Hispanic,Hispanic,hospital,0.8123872109978547,0.2373594217688589,False
+65,nyc,majority_hispanic,Non Hispanic,Hispanic,school,0.045732145775695926,1.9983312556396229,True
+66,nyc,income_group,0:low-income,1:lower-middle,supermarket,0.09036096051950639,1.693905489550115,True
+67,nyc,income_group,0:low-income,1:lower-middle,bank,0.23249715072573557,-1.19413167098092,False
+68,nyc,income_group,0:low-income,1:lower-middle,library,0.9937016134662935,-0.007894431423722488,False
+69,nyc,income_group,0:low-income,1:lower-middle,park,0.010704637133130223,-2.5539248044029583,True
+70,nyc,income_group,0:low-income,1:lower-middle,hospital,0.05461252105620886,1.922509266512977,True
+71,nyc,income_group,0:low-income,1:lower-middle,school,2.049469524058162e-05,4.264524630549019,True
+72,nyc,income_group,0:low-income,2:upper-middle,supermarket,0.9242950083953216,0.09503347604983475,False
+73,nyc,income_group,0:low-income,2:upper-middle,bank,0.0006300129906629882,-3.4222122170373566,True
+74,nyc,income_group,0:low-income,2:upper-middle,library,0.0005325227600414156,-3.474126881175977,True
+75,nyc,income_group,0:low-income,2:upper-middle,park,5.713332942952628e-09,-5.876567893045583,True
+76,nyc,income_group,0:low-income,2:upper-middle,hospital,3.0471872548126905e-05,4.176737720121265,True
+77,nyc,income_group,0:low-income,2:upper-middle,school,4.555279120179329e-13,7.272440540024848,True
+78,nyc,income_group,0:low-income,3:high-income,supermarket,0.10212041381558708,-1.635360878104664,False
+79,nyc,income_group,0:low-income,3:high-income,bank,1.292126619406076e-09,-6.095277351620918,True
+80,nyc,income_group,0:low-income,3:high-income,library,1.582644922771881e-05,-4.389601079591684,True
+81,nyc,income_group,0:low-income,3:high-income,park,8.383013143921124e-11,-6.742356693876218,True
+82,nyc,income_group,0:low-income,3:high-income,hospital,0.0017075967466045057,-3.140848820999646,True
+83,nyc,income_group,0:low-income,3:high-income,school,0.013327348990198854,2.4769606972016667,True
+84,nyc,income_group,1:lower-middle,2:upper-middle,supermarket,0.2407766188860904,-1.1732714393917136,False
+85,nyc,income_group,1:lower-middle,2:upper-middle,bank,0.01346628169848109,-2.4726031537901374,True
+86,nyc,income_group,1:lower-middle,2:upper-middle,library,0.0005984112435707172,-3.44203285496508,True
+87,nyc,income_group,1:lower-middle,2:upper-middle,park,2.1863319622627206e-06,-4.759021928287746,True
+88,nyc,income_group,1:lower-middle,2:upper-middle,hospital,0.020066666050524633,2.32629424847982,True
+89,nyc,income_group,1:lower-middle,2:upper-middle,school,6.611707505932748e-05,3.995263561782817,True
+90,nyc,income_group,1:lower-middle,3:high-income,supermarket,0.01336675475277026,-2.47564682448412,True
+91,nyc,income_group,1:lower-middle,3:high-income,bank,9.852833749830883e-08,-5.345474979824161,True
+92,nyc,income_group,1:lower-middle,3:high-income,library,1.625874916344988e-05,-4.3829904416766245,True
+93,nyc,income_group,1:lower-middle,3:high-income,park,4.549889074827352e-10,-6.4503232035192015,True
+94,nyc,income_group,1:lower-middle,3:high-income,hospital,0.00013594420461323316,-3.821508777857035,True
+95,nyc,income_group,1:lower-middle,3:high-income,school,0.6828083637511714,0.4086826233458569,False
+96,nyc,income_group,2:upper-middle,3:high-income,supermarket,0.19094959672686762,-1.3084838273680675,False
+97,nyc,income_group,2:upper-middle,3:high-income,bank,0.001257620818343052,-3.232844842529194,True
+98,nyc,income_group,2:upper-middle,3:high-income,library,0.00043326072649128747,-3.5283825447409742,True
+99,nyc,income_group,2:upper-middle,3:high-income,park,8.302466131419847e-11,-6.551485003849132,True
+100,nyc,income_group,2:upper-middle,3:high-income,hospital,3.9070984415535896e-08,-5.529441439369897,True
+101,nyc,income_group,2:upper-middle,3:high-income,school,0.049681608528124796,-1.9646000964457058,True
+102,boston,majority_race,Black or African American alone,White alone,supermarket,0.0022987684394435576,-3.06775020060002,True
+103,boston,majority_race,Black or African American alone,White alone,bank,1.094606090069611e-19,-9.559986507430112,True
+104,boston,majority_race,Black or African American alone,White alone,library,4.919972927027336e-06,-4.646514913804424,True
+105,boston,majority_race,Black or African American alone,White alone,park,1.6926541019328424e-06,-4.861556222879146,True
+106,boston,majority_race,Black or African American alone,White alone,hospital,3.210087614809405e-07,-5.196887391722287,True
+107,boston,majority_race,Black or African American alone,White alone,school,6.2223593842592e-05,-4.045883412833959,True
+108,boston,majority_hispanic,Non Hispanic,Hispanic,supermarket,0.3419401001576593,0.951419208933055,False
+109,boston,majority_hispanic,Non Hispanic,Hispanic,bank,0.5499943155787417,0.5982530853580643,False
+110,boston,majority_hispanic,Non Hispanic,Hispanic,library,2.26313781931522e-06,4.822436707085315,True
+111,boston,majority_hispanic,Non Hispanic,Hispanic,park,0.07985659590848929,1.7783787728964369,True
+112,boston,majority_hispanic,Non Hispanic,Hispanic,hospital,2.0259433495593793e-14,7.949117561492899,True
+113,boston,majority_hispanic,Non Hispanic,Hispanic,school,0.061036718288293434,1.8782824131462335,True
+114,boston,income_group,0:low-income,1:lower-middle,supermarket,0.02699890653771897,2.2241291624521415,True
+115,boston,income_group,0:low-income,1:lower-middle,bank,0.3322873226214531,0.9713288050704324,False
+116,boston,income_group,0:low-income,1:lower-middle,library,0.050593567384721316,1.9640159519913887,True
+117,boston,income_group,0:low-income,1:lower-middle,park,0.27812862022176044,1.0868070320130367,False
+118,boston,income_group,0:low-income,1:lower-middle,hospital,0.46507457902926863,0.7315951494037205,False
+119,boston,income_group,0:low-income,1:lower-middle,school,0.17646713487502313,-1.355397727574806,False
+120,boston,income_group,0:low-income,2:upper-middle,supermarket,0.0037149727448664363,2.930493002558152,True
+121,boston,income_group,0:low-income,2:upper-middle,bank,0.32506568666702085,-0.9861489959156466,False
+122,boston,income_group,0:low-income,2:upper-middle,library,0.3103816156585858,1.0165974926315806,False
+123,boston,income_group,0:low-income,2:upper-middle,park,0.3507359748490406,-0.9350077926724798,False
+124,boston,income_group,0:low-income,2:upper-middle,hospital,0.2888766578878904,1.0629717328065704,False
+125,boston,income_group,0:low-income,2:upper-middle,school,0.0029175408646178653,-3.0075443425232953,True
+126,boston,income_group,0:low-income,3:high-income,supermarket,0.18625331599341238,1.3269820874224865,False
+127,boston,income_group,0:low-income,3:high-income,bank,0.1299897972655156,-1.5213396865171223,False
+128,boston,income_group,0:low-income,3:high-income,library,0.8487209085034518,0.19103498179981232,False
+129,boston,income_group,0:low-income,3:high-income,park,0.5904374143601583,-0.5392010257219911,False
+130,boston,income_group,0:low-income,3:high-income,hospital,0.6026000814509289,0.5216173722273444,False
+131,boston,income_group,0:low-income,3:high-income,school,0.1226690050950354,-1.5512071293889884,False
+132,boston,income_group,1:lower-middle,2:upper-middle,supermarket,0.3079001323066621,1.021782227221224,False
+133,boston,income_group,1:lower-middle,2:upper-middle,bank,0.016032968207259496,-2.4251222942232347,True
+134,boston,income_group,1:lower-middle,2:upper-middle,library,0.3221785109009794,-0.9920118521416121,False
+135,boston,income_group,1:lower-middle,2:upper-middle,park,0.06566854001250146,-1.8490265993566224,True
+136,boston,income_group,1:lower-middle,2:upper-middle,hospital,0.7303682164350841,0.34503274041659954,False
+137,boston,income_group,1:lower-middle,2:upper-middle,school,0.08146851740224424,-1.7494913646551205,True
+138,boston,income_group,1:lower-middle,3:high-income,supermarket,0.8798284719388152,-0.15140160533043795,False
+139,boston,income_group,1:lower-middle,3:high-income,bank,0.00615979707798701,-2.7718592403599627,True
+140,boston,income_group,1:lower-middle,3:high-income,library,0.11362583504125726,-1.589839440536212,False
+141,boston,income_group,1:lower-middle,3:high-income,park,0.10469539130673476,-1.630731977149811,False
+142,boston,income_group,1:lower-middle,3:high-income,hospital,0.9686552697311965,-0.03934960218400673,False
+143,boston,income_group,1:lower-middle,3:high-income,school,0.6408853099853076,-0.46725117967887164,False
+144,boston,income_group,2:upper-middle,3:high-income,supermarket,0.3725976492917433,-0.8941737209103817,False
+145,boston,income_group,2:upper-middle,3:high-income,bank,0.2831298762691296,-1.077005593568681,False
+146,boston,income_group,2:upper-middle,3:high-income,library,0.5016498380665219,-0.6734521968372438,False
+147,boston,income_group,2:upper-middle,3:high-income,park,0.7048948771135899,0.3794191525420496,False
+148,boston,income_group,2:upper-middle,3:high-income,hospital,0.7290305288774408,-0.34703397325255875,False
+149,boston,income_group,2:upper-middle,3:high-income,school,0.41764881836498124,0.8126508635135452,False
+150,ri,majority_race,Black or African American alone,White alone,supermarket,0.8344869381626681,-0.2090318151663104,False
+151,ri,majority_race,Black or African American alone,White alone,bank,0.12956636038893074,1.5176816326297642,False
+152,ri,majority_race,Black or African American alone,White alone,library,0.01451618674543534,2.4506060065946436,True
+153,ri,majority_race,Black or African American alone,White alone,park,0.5099961585410804,-0.6591963896777872,False
+154,ri,majority_race,Black or African American alone,White alone,hospital,0.2095819498241689,1.3147804539549979,False
+155,ri,majority_race,Black or African American alone,White alone,school,0.5643400950472155,-0.5766936823352631,False
+156,ri,majority_race,Black or African American alone,Some other race alone,supermarket,0.28796846616067967,-1.0811526723748364,False
+157,ri,majority_race,Black or African American alone,Some other race alone,bank,0.09010556103565179,1.7494672976679277,True
+158,ri,majority_race,Black or African American alone,Some other race alone,library,0.5240414648334666,0.6444228584286633,False
+159,ri,majority_race,Black or African American alone,Some other race alone,park,0.341563079362747,0.981600839314642,False
+160,ri,majority_race,Black or African American alone,Some other race alone,hospital,0.37347686265694047,0.903024023861072,False
+161,ri,majority_race,Black or African American alone,Some other race alone,school,0.3241048237625884,-1.0019923871224536,False
+162,ri,majority_race,Black or African American alone,Two or more races,supermarket,0.10781204767056769,-1.683558844937455,False
+163,ri,majority_race,Black or African American alone,Two or more races,bank,0.5119495489851524,0.6682794553147907,False
+164,ri,majority_race,Black or African American alone,Two or more races,library,0.8252398454047096,-0.22372617053375551,False
+165,ri,majority_race,Black or African American alone,Two or more races,park,0.20755253077477182,-1.3024784445071393,False
+166,ri,majority_race,Black or African American alone,Two or more races,hospital,0.5777762552510473,-0.5658705194797273,False
+167,ri,majority_race,Black or African American alone,Two or more races,school,0.04259189143541459,-2.1657417182896777,True
+168,ri,majority_race,White alone,Some other race alone,supermarket,0.19145700931521953,-1.307595622268559,False
+169,ri,majority_race,White alone,Some other race alone,bank,0.17893195535385045,1.345453511124108,False
+170,ri,majority_race,White alone,Some other race alone,library,0.10358287903756293,-1.6299362530173127,False
+171,ri,majority_race,White alone,Some other race alone,park,2.1938657008822194e-08,6.403213717742185,True
+172,ri,majority_race,White alone,Some other race alone,hospital,0.4168083086816333,-0.8124717130349767,False
+173,ri,majority_race,White alone,Some other race alone,school,0.5400973639166055,-0.6129789160712891,False
+174,ri,majority_race,White alone,Two or more races,supermarket,0.023237666091389945,-2.2747877454096517,True
+175,ri,majority_race,White alone,Two or more races,bank,0.6229845197601623,-0.5160449722346143,False
+176,ri,majority_race,White alone,Two or more races,library,0.0434236462200329,-2.023492903589581,True
+177,ri,majority_race,White alone,Two or more races,park,0.2877888298480871,-1.0638405455223796,False
+178,ri,majority_race,White alone,Two or more races,hospital,0.17845163752839735,-1.5230155776573437,False
+179,ri,majority_race,White alone,Two or more races,school,0.0476405964040663,-1.9842489537750778,True
+180,ri,majority_race,Some other race alone,Two or more races,supermarket,0.32561865808262425,-1.0044378602892436,False
+181,ri,majority_race,Some other race alone,Two or more races,bank,0.19343244355463252,-1.3396944757750486,False
+182,ri,majority_race,Some other race alone,Two or more races,library,0.3793431798131274,-0.896367137907283,False
+183,ri,majority_race,Some other race alone,Two or more races,park,0.19391237612208473,-1.4604056674551793,False
+184,ri,majority_race,Some other race alone,Two or more races,hospital,0.14819093349360135,-1.4962296510084823,False
+185,ri,majority_race,Some other race alone,Two or more races,school,0.18398634883193515,-1.3697631023284182,False
+186,ri,majority_hispanic,Non Hispanic,Hispanic,supermarket,0.1350734518340012,-1.4961285646398035,False
+187,ri,majority_hispanic,Non Hispanic,Hispanic,bank,0.8598325404766636,0.17665275871374284,False
+188,ri,majority_hispanic,Non Hispanic,Hispanic,library,0.0304511669710062,-2.1685987782640357,True
+189,ri,majority_hispanic,Non Hispanic,Hispanic,park,0.6418746044957576,0.4652826452027304,False
+190,ri,majority_hispanic,Non Hispanic,Hispanic,hospital,0.013463692396702287,-2.54216602910225,True
+191,ri,majority_hispanic,Non Hispanic,Hispanic,school,2.7649691671555767e-05,-4.220139157038371,True
+192,ri,income_group,0:low-income,1:lower-middle,supermarket,0.10409495856655342,1.6284989458445223,False
+193,ri,income_group,0:low-income,1:lower-middle,bank,0.0525049375330385,1.9439339508389828,True
+194,ri,income_group,0:low-income,1:lower-middle,library,2.8798573859648377e-05,4.224634112302248,True
+195,ri,income_group,0:low-income,1:lower-middle,park,0.08572661255138696,1.7220357073631694,True
+196,ri,income_group,0:low-income,1:lower-middle,hospital,0.0010368061528234261,3.301159986001259,True
+197,ri,income_group,0:low-income,1:lower-middle,school,0.0012375907605286485,3.2499956133586725,True
+198,ri,income_group,0:low-income,2:upper-middle,supermarket,0.008471172740641035,2.6458005078537594,True
+199,ri,income_group,0:low-income,2:upper-middle,bank,0.0352607216183153,2.1125234967211073,True
+200,ri,income_group,0:low-income,2:upper-middle,library,8.350692114330818e-07,5.005901243493746,True
+201,ri,income_group,0:low-income,2:upper-middle,park,0.38084424175587717,0.8773111954900567,False
+202,ri,income_group,0:low-income,2:upper-middle,hospital,0.00174539938843487,3.151708916798393,True
+203,ri,income_group,0:low-income,2:upper-middle,school,2.6369740532630582e-05,4.25227660999034,True
+204,ri,income_group,0:low-income,3:high-income,supermarket,0.005525372621469581,2.7986408634781412,True
+205,ri,income_group,0:low-income,3:high-income,bank,0.18783118002903698,1.3205767101928485,False
+206,ri,income_group,0:low-income,3:high-income,library,0.04807940937083807,1.9862584759719344,True
+207,ri,income_group,0:low-income,3:high-income,park,0.8563202012352052,0.18124451040837203,False
+208,ri,income_group,0:low-income,3:high-income,hospital,0.19496206779123354,1.299466489952756,False
+209,ri,income_group,0:low-income,3:high-income,school,0.9999756970751665,3.0489193484595935e-05,False
+210,ri,income_group,1:lower-middle,2:upper-middle,supermarket,0.220538613126817,1.226840486299144,False
+211,ri,income_group,1:lower-middle,2:upper-middle,bank,0.7052644916484256,0.3784693560999056,False
+212,ri,income_group,1:lower-middle,2:upper-middle,library,0.17002078618940394,1.3743882474496338,False
+213,ri,income_group,1:lower-middle,2:upper-middle,park,0.4092419343515169,-0.8260173049502397,False
+214,ri,income_group,1:lower-middle,2:upper-middle,hospital,0.8369431648415391,0.20592701859184362,False
+215,ri,income_group,1:lower-middle,2:upper-middle,school,0.15096336840786354,1.4386403577993394,False
+216,ri,income_group,1:lower-middle,3:high-income,supermarket,0.04106641300403686,2.051884211316523,True
+217,ri,income_group,1:lower-middle,3:high-income,bank,0.6481358820931473,0.4568226141566704,False
+218,ri,income_group,1:lower-middle,3:high-income,library,0.9222939863681243,-0.09762828530050995,False
+219,ri,income_group,1:lower-middle,3:high-income,park,0.39160988702814437,-0.8579664296621481,False
+220,ri,income_group,1:lower-middle,3:high-income,hospital,0.7309222513371727,-0.34422621129099057,False
+221,ri,income_group,1:lower-middle,3:high-income,school,0.06671869249789625,-1.840390389333608,True
+222,ri,income_group,2:upper-middle,3:high-income,supermarket,0.18720626764845255,1.3228627234602817,False
+223,ri,income_group,2:upper-middle,3:high-income,bank,0.7995768772005873,0.25419128642923844,False
+224,ri,income_group,2:upper-middle,3:high-income,library,0.35942904833270894,-0.918306112723016,False
+225,ri,income_group,2:upper-middle,3:high-income,park,0.7186371602027984,-0.3607274883935804,False
+226,ri,income_group,2:upper-middle,3:high-income,hospital,0.6322901202987739,-0.4791514532349991,False
+227,ri,income_group,2:upper-middle,3:high-income,school,0.011603857006167308,-2.544522045927057,True
+228,chicago,majority_race,Black or African American alone,White alone,supermarket,1.3130247733181158e-24,-10.387247493644141,True
+229,chicago,majority_race,Black or African American alone,White alone,bank,2.9255512602773864e-38,-13.230961755829764,True
+230,chicago,majority_race,Black or African American alone,White alone,library,1.7142326296504561e-10,-6.421530687781098,True
+231,chicago,majority_race,Black or African American alone,White alone,park,0.00046359571308504557,-3.5094390023410598,True
+232,chicago,majority_race,Black or African American alone,White alone,hospital,0.5583423161956148,0.5854110252741885,False
+233,chicago,majority_race,Black or African American alone,White alone,school,5.723658952758599e-11,-6.589600269287446,True
+234,chicago,majority_race,Black or African American alone,Asian alone,supermarket,1.0712450818037757e-05,-4.434703978891142,True
+235,chicago,majority_race,Black or African American alone,Asian alone,bank,2.8020964412907323e-07,-5.18724479523117,True
+236,chicago,majority_race,Black or African American alone,Asian alone,library,0.004797588420866477,-3.01669330644266,True
+237,chicago,majority_race,Black or African American alone,Asian alone,park,0.5344535112747925,-0.6215314696714089,False
+238,chicago,majority_race,Black or African American alone,Asian alone,hospital,0.38983060063854436,0.8604622258437992,False
+239,chicago,majority_race,Black or African American alone,Asian alone,school,0.12865951772637352,-1.5212171368012743,False
+240,chicago,majority_race,Black or African American alone,Some other race alone,supermarket,1.375032281622575e-07,-5.318736808407352,True
+241,chicago,majority_race,Black or African American alone,Some other race alone,bank,1.4070315068018598e-10,-6.505030181450256,True
+242,chicago,majority_race,Black or African American alone,Some other race alone,library,0.36779762764954993,-0.9011425524061389,False
+243,chicago,majority_race,Black or African American alone,Some other race alone,park,0.01785794236832697,2.381573250431023,True
+244,chicago,majority_race,Black or African American alone,Some other race alone,hospital,2.5863264920530104e-06,4.793744623841342,True
+245,chicago,majority_race,Black or African American alone,Some other race alone,school,3.4661823645938053e-14,-7.727547772031888,True
+246,chicago,majority_race,Black or African American alone,Two or more races,supermarket,0.802033952298291,-0.25081541238860744,False
+247,chicago,majority_race,Black or African American alone,Two or more races,bank,0.0059481982915197285,-2.75946778702419,True
+248,chicago,majority_race,Black or African American alone,Two or more races,library,0.9909920440335984,0.011294265045892513,False
+249,chicago,majority_race,Black or African American alone,Two or more races,park,0.0015121293658143025,4.386712166496878,True
+250,chicago,majority_race,Black or African American alone,Two or more races,hospital,0.07551648606354572,2.073858541440167,True
+251,chicago,majority_race,Black or African American alone,Two or more races,school,0.01318892970499686,-2.485270018852023,True
+252,chicago,majority_race,White alone,Asian alone,supermarket,0.38424538955194,-0.8704105117581805,False
+253,chicago,majority_race,White alone,Asian alone,bank,0.701684672629511,-0.38313633136993347,False
+254,chicago,majority_race,White alone,Asian alone,library,0.02318019262020682,-2.3762885052912224,True
+255,chicago,majority_race,White alone,Asian alone,park,0.03284255382537454,2.1522015999704416,True
+256,chicago,majority_race,White alone,Asian alone,hospital,0.5601808470305444,0.5827310269702627,False
+257,chicago,majority_race,White alone,Asian alone,school,0.6614701748239389,0.4379900166894087,False
+258,chicago,majority_race,White alone,Some other race alone,supermarket,0.9971841162351588,-0.003529873545078726,False
+259,chicago,majority_race,White alone,Some other race alone,bank,0.42568486322122734,0.796848112213541,False
+260,chicago,majority_race,White alone,Some other race alone,library,0.0030467648775600086,3.0052239190929924,True
+261,chicago,majority_race,White alone,Some other race alone,park,1.1402906547544135e-05,4.405880139505607,True
+262,chicago,majority_race,White alone,Some other race alone,hospital,9.963170939891053e-06,4.5098365763148625,True
+263,chicago,majority_race,White alone,Some other race alone,school,4.3833525043989194e-05,-4.1002451044554995,True
+264,chicago,majority_race,White alone,Two or more races,supermarket,0.30067373915342793,1.0354342308363842,False
+265,chicago,majority_race,White alone,Two or more races,bank,0.6685671614130302,-0.4282203543755728,False
+266,chicago,majority_race,White alone,Two or more races,library,0.5562582442355268,0.5885725798678413,False
+267,chicago,majority_race,White alone,Two or more races,park,2.0367624478069797e-07,5.521834483283203,True
+268,chicago,majority_race,White alone,Two or more races,hospital,0.10684969711300546,1.8528638621694513,False
+269,chicago,majority_race,White alone,Two or more races,school,0.1812956448662435,-1.3375491210956216,False
+270,chicago,majority_race,Asian alone,Some other race alone,supermarket,0.4778895474678413,0.7117121303606087,False
+271,chicago,majority_race,Asian alone,Some other race alone,bank,0.3550140124956296,0.9281444171755049,False
+272,chicago,majority_race,Asian alone,Some other race alone,library,0.00712162046089641,2.8564656866463842,True
+273,chicago,majority_race,Asian alone,Some other race alone,park,0.020684357511661658,2.341646010660259,True
+274,chicago,majority_race,Asian alone,Some other race alone,hospital,0.1663134776465686,1.391775892670182,False
+275,chicago,majority_race,Asian alone,Some other race alone,school,0.015244384417360427,-2.4583279412723718,True
+276,chicago,majority_race,Asian alone,Two or more races,supermarket,0.23794855814303106,1.1980493950860747,False
+277,chicago,majority_race,Asian alone,Two or more races,bank,0.7987246844910523,-0.2567019141324662,False
+278,chicago,majority_race,Asian alone,Two or more races,library,0.019055638856399517,2.4709503872036107,True
+279,chicago,majority_race,Asian alone,Two or more races,park,0.0026439304501624733,3.2261410308339618,True
+280,chicago,majority_race,Asian alone,Two or more races,hospital,0.6007490481486908,0.5275164150047722,False
+281,chicago,majority_race,Asian alone,Two or more races,school,0.18941855024107954,-1.3350201078392594,False
+282,chicago,majority_race,Some other race alone,Two or more races,supermarket,0.3288512101995209,0.9809928750327112,False
+283,chicago,majority_race,Some other race alone,Two or more races,bank,0.42263565013840965,-0.8050054366066007,False
+284,chicago,majority_race,Some other race alone,Two or more races,library,0.807555599478817,0.2441959402215022,False
+285,chicago,majority_race,Some other race alone,Two or more races,park,0.02102063770380579,2.7194735238086136,True
+286,chicago,majority_race,Some other race alone,Two or more races,hospital,0.965460659578376,-0.04340558856817532,False
+287,chicago,majority_race,Some other race alone,Two or more races,school,0.8482653677200094,-0.19180503124122986,False
+288,chicago,majority_hispanic,Non Hispanic,Hispanic,supermarket,5.100594323388997e-06,-4.573039052396597,True
+289,chicago,majority_hispanic,Non Hispanic,Hispanic,bank,8.742465785209104e-06,-4.4576912512086,True
+290,chicago,majority_hispanic,Non Hispanic,Hispanic,library,0.008073819044154383,2.6516188942265977,True
+291,chicago,majority_hispanic,Non Hispanic,Hispanic,park,4.5875030009990847e-07,5.063210506624632,True
+292,chicago,majority_hispanic,Non Hispanic,Hispanic,hospital,1.0054540764956603e-19,9.18481196403322,True
+293,chicago,majority_hispanic,Non Hispanic,Hispanic,school,8.973931256817908e-28,-11.088768844016492,True
+294,chicago,income_group,0:low-income,1:lower-middle,supermarket,0.0007581978133954194,-3.3747951543054207,True
+295,chicago,income_group,0:low-income,1:lower-middle,bank,1.218237601000973e-10,-6.484402517196874,True
+296,chicago,income_group,0:low-income,1:lower-middle,library,0.6166487635059823,-0.5007134240815585,False
+297,chicago,income_group,0:low-income,1:lower-middle,park,0.7336248262105238,0.34037312240059187,False
+298,chicago,income_group,0:low-income,1:lower-middle,hospital,0.08501617047500849,1.7234723475122218,True
+299,chicago,income_group,0:low-income,1:lower-middle,school,0.00021312917700418903,-3.7123307739506934,True
+300,chicago,income_group,0:low-income,2:upper-middle,supermarket,0.00012401338235278647,-3.8512648874251467,True
+301,chicago,income_group,0:low-income,2:upper-middle,bank,1.5877074933994048e-13,-7.469802210896919,True
+302,chicago,income_group,0:low-income,2:upper-middle,library,0.0005578039009501974,-3.4745669583722787,True
+303,chicago,income_group,0:low-income,2:upper-middle,park,0.006881765725718915,-2.7165736355253833,True
+304,chicago,income_group,0:low-income,2:upper-middle,hospital,0.034308555404896815,-2.1189591463322266,True
+305,chicago,income_group,0:low-income,2:upper-middle,school,0.1385284343767172,1.4823262232262784,False
+306,chicago,income_group,0:low-income,3:high-income,supermarket,5.432762724766616e-07,-5.046399091962959,True
+307,chicago,income_group,0:low-income,3:high-income,bank,1.7851836365477922e-09,-6.078051042424385,True
+308,chicago,income_group,0:low-income,3:high-income,library,0.010479218781288262,-2.5885934300707123,True
+309,chicago,income_group,0:low-income,3:high-income,park,0.011776111420034457,-2.548035765260143,True
+310,chicago,income_group,0:low-income,3:high-income,hospital,0.01632610280083626,-2.4060008019854027,True
+311,chicago,income_group,0:low-income,3:high-income,school,0.0034557008977088195,2.9316597456710136,True
+312,chicago,income_group,1:lower-middle,2:upper-middle,supermarket,0.30111318973171786,-1.0345405884672796,False
+313,chicago,income_group,1:lower-middle,2:upper-middle,bank,0.03863910366359062,-2.0705178340293355,True
+314,chicago,income_group,1:lower-middle,2:upper-middle,library,0.0014167904926383436,-3.209177389330166,True
+315,chicago,income_group,1:lower-middle,2:upper-middle,park,0.006077997016690746,-2.757620422809156,True
+316,chicago,income_group,1:lower-middle,2:upper-middle,hospital,0.001167373761441056,-3.2553571992519754,True
+317,chicago,income_group,1:lower-middle,2:upper-middle,school,3.193040666030944e-06,4.682376399598487,True
+318,chicago,income_group,1:lower-middle,3:high-income,supermarket,0.004444808604226865,-2.8523100577202514,True
+319,chicago,income_group,1:lower-middle,3:high-income,bank,0.03793416110014308,-2.078787894779736,True
+320,chicago,income_group,1:lower-middle,3:high-income,library,0.014997839727775781,-2.457383761087609,True
+321,chicago,income_group,1:lower-middle,3:high-income,park,0.010914701614663624,-2.5752400346974658,True
+322,chicago,income_group,1:lower-middle,3:high-income,hospital,0.03414045193370373,-2.1350916468100802,True
+323,chicago,income_group,1:lower-middle,3:high-income,school,3.292164747956824e-07,5.146550217238396,True
+324,chicago,income_group,2:upper-middle,3:high-income,supermarket,0.06906592238039859,-1.8215462771701194,True
+325,chicago,income_group,2:upper-middle,3:high-income,bank,0.6250686803871106,-0.48895420615798274,False
+326,chicago,income_group,2:upper-middle,3:high-income,library,0.45781231317517723,-0.7429768988076231,False
+327,chicago,income_group,2:upper-middle,3:high-income,park,0.2061660293021157,-1.265670372400294,False
+328,chicago,income_group,2:upper-middle,3:high-income,hospital,0.5608396744646842,-0.5819480775038279,False
+329,chicago,income_group,2:upper-middle,3:high-income,school,0.042895007471575264,2.029426234755977,True
