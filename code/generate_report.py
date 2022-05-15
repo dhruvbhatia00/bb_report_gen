@@ -19,7 +19,7 @@ import PIL as pil
 MARGIN_WIDTH = 7.3*72
 
 # File paths
-full_path = os.path.dirname(os.getcwd())
+full_path = os.getcwd()
 data_path = {"boston": full_path + os.sep + 'hypothesis_testing_data' + os.sep + "boston_bg_census_and_connectivity.geojson",
             "nyc": full_path + os.sep + 'hypothesis_testing_data' + os.sep + 'nyc_bg_census_and_connectivity.geojson',
             "chicago": full_path + os.sep + 'hypothesis_testing_data' + os.sep + 'chicago_bg_census_and_connectivity.geojson',
